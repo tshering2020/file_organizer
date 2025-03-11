@@ -1,0 +1,12 @@
+# Ignore dynamically created folders
+Archives/
+Documents/
+Images/
+Others/
+Videos/
+
+# Ignore Python cache files
+__pycache__/
+*.pyc
+*.pyo
+
